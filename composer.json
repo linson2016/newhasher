@@ -1,0 +1,19 @@
+{
+    "name": "linson2016/hasher",
+    "description": "Md5 support in laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "linson2016",
+            "email": "149525162@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Linson2016\\hasher\\":"src/"
+        }
+    }
+}
